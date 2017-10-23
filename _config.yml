@@ -1,0 +1,13 @@
+title: FMT ONE
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      category: "unnamed"
+      author: "Marc Volker Dickmann"
+gems:
+  - jekyll-feed
+  - jekyll-sitemap
