@@ -2,28 +2,49 @@
 layout: default
 ---
 
-<div class="home">
-
-  {{ content }}
-  
-  <div class="post-list">
+<ul class="list">
+  <li>Love to help others and educate myself. Always looking for new projects.</li>
+  <li>@marc-q at <mark><a href="https://github.com/marc-q">GitHub</a></mark></li>
+  <li>Fun facts
+    <ul class="list">
+      <li>My favorite programming language is <a href="https://en.wikipedia.org/wiki/C_(programming_language)">C</a></li>
+      <li>I go <a href="https://en.wikipedia.org/wiki/Bouldering"/>bouldering</a></li>
+      <li>From Germany</li>
+    </ul>
+  </li>
+  <li>Open source projects
+    <ul class="list">
+      <li>
+        <a href="https://github.com/marc-q/ShowSpaces">ShowSpaces</a> is a simple gedit plugin that shows leading or trailing spaces and tabs.
+      </li>
+      <li>
+        <a href="https://github.com/marc-q/unbif">UnBif</a> is a small tool to unpack BioWare’s BIFF archives.
+      </li>
+      <li>
+        <a href="https://github.com/marc-q/zyper">Zyper</a> is a little typing game.
+      </li>
+      <li>
+        <a href="https://github.com/marc-q/LList">LList</a> an simple api for working with linked lists. 
+      </li>
+      <li>
+        <a href="https://github.com/marc-q/kryptonite">Kryptonite</a> is a way people could have secure passwords.
+      </li>
+       <li>
+        <a href="https://github.com/marc-q/libbmp">libbmp</a> is a simple Bitmap (BMP) library.
+      </li>
+       <li>
+        <a href="https://github.com/marc-q/libwav">libwav</a> is a simple wav library.
+      </li>
+    </ul>
+  </li>
+  <li>Posts
+    <ul class="list">
     {% for post in site.posts %}
-      <article class="post">
-        <header class="post-header">
-          <h2>
-            <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
-          </h2>
-        </header>
-        
-        <section class="post-content">
-          {{ post.content }}
-        </section>
-        
-        <footer class="post-meta">
-          <small class="posted-on"><time datetime="{{ post.date }}">{{ post.date | date: "%b %-d, %Y" }}</time></small>
-          <small class="cat-links">{{ post.category }}</small>
-        </footer>
-      </article>
-    {% endfor %}
-  </div>
-</div>
+      <li>
+        <a href="{{ post.url }}">{{ post.title }}</a>
+        <time>{{ post.date | date: "%b %d, %Y" }}</time>
+      </li>
+      {% endfor %}
+    </ul>
+  </li>
+</ul>
