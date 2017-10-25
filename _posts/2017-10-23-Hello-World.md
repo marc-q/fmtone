@@ -5,3 +5,5 @@ title: Hello World
 ---
 
 Hello World
+
+![Logo](assets/img/logo.svg)
