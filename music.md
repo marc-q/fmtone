@@ -18,3 +18,4 @@ Some music that i like:
 | It's My Life | Bon Jovi | Rock, Pop |
 | Thnks fr th Mmrs | Fall Out Boy | Alternative/Indie, Rock |
 | Beat It | Fall Out Boy ft. John Mayer | Emo/Hardcore, Alternative/Indie | 
+| Beat It | Michael Jackson | Pop |
