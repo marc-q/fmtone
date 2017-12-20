@@ -5,8 +5,7 @@ title: Music
 
 <details>
   <summary>How this page works</summary>
-  <h4>Searching:</h4>
-  <p>Use your browser to search.</p>
+  <p><b>Searching:</b> Use your browser to search.</p>
 </details>
 
 Some music that i like:
