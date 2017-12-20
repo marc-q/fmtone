@@ -3,6 +3,14 @@ layout: default
 title: Music
 ---
 
+<br/>
+<details>
+  <summary>How this page works</summary>
+  <h4>Searching:</h4>
+  <p>Use your browser to search.</p>
+</details>
+<br/>
+
 Some music that i like:
 
 | Name | Artist | Genres |
