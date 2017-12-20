@@ -17,3 +17,4 @@ Some music that i like:
 | Castle of Glass | Linkin Park | Nu Metal, Hard Rock |
 | It's My Life | Bon Jovi | Rock, Pop |
 | Thnks fr th Mmrs | Fall Out Boy | Alternative/Indie, Rock |
+| Beat It | Fall Out Boy ft. John Mayer | Emo/Hardcore, Alternative/Indie | 
