@@ -5,10 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" type="image/x-icon" class="js-site-favicon" href="/assets/img/logo.svg">
     <style>
-      html, header a {font-family: Roboto; font-size: 14px; line-height: 1.5; font-weight: 400; background-color: #fff; color: #24292e;}
+      html {font-family: Roboto; font-size: 14px; line-height: 1.5; font-weight: 400; background-color: #fff; color: #24292e;}
       body {margin: 0; padding: 0; border: 0; width: 80%; min-height: 95vh; margin-left: 10%; position: relative;}
       a {color: #0366d6; text-decoration: none;}
-      header h1 {text-decoration: underline;}
+      header h1 a {text-decoration: underline; color: #24292e;}
       mark, pre {background-color: #efefef;}
       blockquote {border-left: 0.25em solid gray; padding: 0 1em; color: #6a737d;}
       .list {margin-top: 0.8em; padding-left: 1.5em; list-style: none;}
@@ -25,7 +25,7 @@
     {% seo %}
   </head>
   <body>
-    <header><a href="/"><h1>Marc Volker Dickmann</h1></a></header>
+    <header><h1><a href="/">Marc Volker Dickmann</a></h1></header>
      {{ content }}
      <footer>
         This site is open source. {% github_edit_link "Improve this page" %}.
