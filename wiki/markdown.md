@@ -54,7 +54,7 @@ Schrift verändern
 Kursiv
 ------
 
-```markdown
+```Markdown
 *Kursiv* oder _Kursiv_
 ```
 
@@ -63,7 +63,7 @@ Kursiv
 Fett
 ----
 
-```markdown
+```Markdown
 **Fett** oder __Fett__
 ```
 
@@ -72,7 +72,7 @@ Fett
 Fett kursiv
 -----------
 
-```markdown
+```Markdown
 ***Fett kursiv*** oder ___Fett kursiv___
 ```
 
@@ -81,7 +81,7 @@ Fett kursiv
 Text markieren
 ==============
 
-```markdown
+```Markdown
 Markierter `Quelltext`
 ```
 
@@ -93,7 +93,7 @@ Listen
 Ungeordnete Liste
 -----------------
 
-```markdown
+```Markdown
 * Ein Punkt in einer ungeordneten Liste.
 		* Ein unterpunkt von dem Punkt über diesem.
 * Ein weiterer Punkt.
@@ -106,7 +106,7 @@ Ungeordnete Liste
 Geordnete Liste
 ---------------
 
-```markdown
+```Markdown
 1. Punkt eins in einer geordneten Liste.
 2. Punkt zwei.
 ```
@@ -120,7 +120,7 @@ Geordnete Liste
 HTML-Überschriften
 ------------------
 
-```markdown
+```Markdown
 # Überschrift von der ersten Ebene
 ## Überschrift der zweiten Ebene
 ```
@@ -131,7 +131,7 @@ HTML-Überschriften
 Alternativen
 ------------
 
-```markdown
+```Markdown
 Überschrift der ersten Ebene
 ============================
 
@@ -148,7 +148,7 @@ Alternativen
 Zitate
 ======
 
-```markdown
+```Markdown
 > Ein Zitat welches in ein HTML-Blockquote-Element gepackt wird.
 ```
 > Ein Zitat welches in ein HTML-Blockquote-Element gepackt wird.
@@ -156,7 +156,7 @@ Zitate
 Links
 =====
 
-```markdown
+```Markdown
 [Beschriftung des Links](http://fmt.one/ "Titel, der beim überfahren mit der Maus angezeigt wird")
 ```
 
@@ -165,7 +165,7 @@ Links
 Bilder
 ======
 
-```markdown
+```Markdown
 ![Alternativtext](/assets/img/avatar.png "Bildtitel")
 ```
 
@@ -174,7 +174,7 @@ Bilder
 Tabellen
 ========
 
-```markdown
+```Markdown
 | First Header  | Second Header |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
