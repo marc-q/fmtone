@@ -1,0 +1,24 @@
+.cp, .cs, .gs, .kc, .kd, .kn, .kp, .kr, .kv, .kt, .k, .ow, .o, .nc, .nd, .ne, .nf, .nl, .na  { font-weight: bold; }
+.cm, .c1, .cs, .cd, .c, .ge { font-style: italic; }
+
+.kc, .kd, .kn, .kp, .kr, .kv, .k, .ow, .o, .ge, .gd, .gi { color: #bebebe; }
+.sb, .sc, .sd, .s2, .se, .sh, .si, .sx, .s, .s1 { color: #d14; }
+.mf, .mh, .il, .mi, .mo, .mb, .mx, .m { color: #009999; }
+.vc, .vg, .vi, .nv, .no, .na { color: #008080; }
+.ne, .nf, .nl { color: #990000; }
+.cm, .c1, .cd, .c { color: #999988; }
+.bp, .cp, .cs, .gh { color: #999999; }
+.gr, .gt { color: #aa0000; }
+.kt, .nc { color: #445588; }
+.nb, .nt { color: #0086B3; }
+.gp, .nn { color: #555555; }
+.err { color: #a61717; background-color: #e3d2d2; }
+.gd { background-color: #ffdddd; }
+.gi { background-color: #ddffdd; }
+.go { color: #888888; }
+.gu { color: #aaaaaa; }
+.sr { color: #009926; }
+.ss { color: #990073; }
+.nd { color: #3c5d5d; }
+.ni { color: #800080; }
+.w { color: #bbbbbb; }
