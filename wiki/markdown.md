@@ -143,10 +143,10 @@ Links
 =====
 
 ```markdown
-[Beschriftung des Links](http://marcvd.me/ "Titel, der beim überfahren mit der Maus angezeigt wird")
+[Beschriftung des Links](http://fmt.one/ "Titel, der beim überfahren mit der Maus angezeigt wird")
 ```
 
-[Beschriftung des Links](http://marcvd.me/ "Titel, der beim überfahren mit der Maus angezeigt wird")
+[Beschriftung des Links](http://fmt.one/ "Titel, der beim überfahren mit der Maus angezeigt wird")
 
 Bilder
 ======
