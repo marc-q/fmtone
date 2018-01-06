@@ -6,32 +6,32 @@ title: Markdown Syntax
 <details>
   <summary>Inhalt</summary>
 <ul>
-<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#absatz">Absatz</a></li>
-<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#zeilenumbruch">Zeilenumbruch</a></li>
-<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#schrift-ver%C3%A4ndern">Schrift verändern</a>
+<li><a href="#absatz">Absatz</a></li>
+<li><a href="#zeilenumbruch">Zeilenumbruch</a></li>
+<li><a href="#schrift-ver%C3%A4ndern">Schrift verändern</a>
 	<ul>
-		<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#kursiv">Kursiv</a></li>
-		<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#fett">Fett</a></li>
-		<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#fett-kursiv">Fett kursiv</a></li>
+		<li><a href="#kursiv">Kursiv</a></li>
+		<li><a href="#fett">Fett</a></li>
+		<li><a href="#fett-kursiv">Fett kursiv</a></li>
 	</ul>
 </li>
-<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#text-markieren">Text markieren</a></li>
-<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#listen">Listen</a>
+<li><a href="#text-markieren">Text markieren</a></li>
+<li><a href="#listen">Listen</a>
 	<ul>
-		<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#ungeordnete-liste">Ungeordnete Liste</a></li>
-		<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#geordnete-liste">Geordnete Liste</a></li>
+		<li><a href="#ungeordnete-liste">Ungeordnete Liste</a></li>
+		<li><a href="#geordnete-liste">Geordnete Liste</a></li>
 	</ul>
 </li>
-<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#%C3%9Cberschriften">Überschriften</a>
+<li><a href="#%C3%9Cberschriften">Überschriften</a>
 	<ul>
-		<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#html-%C3%9Cberschriften">HTML-Überschriften</a></li>
-		<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#alternativen">Alternativen</a></li>
+		<li><a href="#html-%C3%9Cberschriften">HTML-Überschriften</a></li>
+		<li><a href="#alternativen">Alternativen</a></li>
 	</ul>
 </li>
-<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#zitate">Zitate</a></li>
-<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#links">Links</a></li>
-<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#bilder">Bilder</a></li>
-<li><a href="/marc-q/fmtone/blob/master/wiki/markdown.md#tabellen">Tabellen</a></li>
+<li><a href="#zitate">Zitate</a></li>
+<li><a href="#links">Links</a></li>
+<li><a href="#bilder">Bilder</a></li>
+<li><a href="#tabellen">Tabellen</a></li>
 </ul>
 </details>
 
