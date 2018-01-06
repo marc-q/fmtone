@@ -120,7 +120,7 @@ Geordnete Liste
 HTML-Überschriften
 ------------------
 
-```Markdown
+```gfm
 # Überschrift von der ersten Ebene
 ## Überschrift der zweiten Ebene
 ```
