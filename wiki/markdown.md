@@ -3,6 +3,9 @@ layout: default
 title: Markdown Syntax
 ---
 
+<details>
+  <summary>Inhalt</summary>
+
 * [Absatz](#absatz)
 * [Zeilenumbruch](#zeilenumbruch)
 * [Schrift verändern](#schrift-verändern)
@@ -20,6 +23,8 @@ title: Markdown Syntax
 * [Links](#links)
 * [Bilder](#bilder)
 * [Tabellen](#tabellen)
+
+</details>
 
 Absatz
 ======
