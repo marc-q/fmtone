@@ -12,3 +12,6 @@ defaults:
 gems:
   - jekyll-feed
   - jekyll-sitemap
+exclude:
+  - CNAME
+  - README.md
