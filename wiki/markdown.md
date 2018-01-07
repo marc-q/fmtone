@@ -42,11 +42,15 @@ Markdown ist ein einfacher Weg Notizen übersichtlich zu gestalten.
 
 Eine Leerzeile erzeugt dabei einen Absatz.
 
+---
+
 Zeilenumbruch
 =============
 
 Zwei oder mehr Lehrzeichen am Ende der Zeile  
 erzeugen eine Zeilenumbruch.
+
+---
 
 Schrift verändern
 =================
@@ -78,6 +82,8 @@ Fett kursiv
 
 ***Fett kursiv*** oder ___Fett kursiv___
 
+---
+
 Text markieren
 ==============
 
@@ -86,6 +92,8 @@ Markierter `Quelltext`
 ```
 
 Markierter `Quelltext`
+
+---
 
 Listen
 ======
@@ -113,6 +121,8 @@ Geordnete Liste
 
 1. Punkt eins in einer geordneten Liste.
 2. Punkt zwei.
+
+---
 
 Überschriften
 =============
@@ -145,6 +155,8 @@ Alternativen
 Überschrift der zweiten Ebene
 -----------------------------
 
+---
+
 Zitate
 ======
 
@@ -152,6 +164,8 @@ Zitate
 > Ein Zitat welches in ein HTML-Blockquote-Element gepackt wird.
 ```
 > Ein Zitat welches in ein HTML-Blockquote-Element gepackt wird.
+
+---
 
 Links
 =====
@@ -162,6 +176,8 @@ Links
 
 [Beschriftung des Links](http://fmt.one/ "Titel, der beim überfahren mit der Maus angezeigt wird")
 
+---
+
 Bilder
 ======
 
@@ -170,6 +186,8 @@ Bilder
 ```
 
 ![Alternativtext](/assets/img/avatar.png "Bildtitel")
+
+---
 
 Tabellen
 ========
