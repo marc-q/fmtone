@@ -47,7 +47,7 @@ Eine Leerzeile erzeugt dabei einen Absatz.
 Zeilenumbruch
 =============
 
-Zwei oder mehr Lehrzeichen am Ende der Zeile  
+Zwei oder mehr Leerzeichen am Ende der Zeile  
 erzeugen eine Zeilenumbruch.
 
 ---
