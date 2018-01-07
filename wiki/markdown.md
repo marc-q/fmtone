@@ -8,7 +8,7 @@ title: Markdown Syntax
 <ul>
 <li><a href="#absatz">Absatz</a></li>
 <li><a href="#zeilenumbruch">Zeilenumbruch</a></li>
-<li><a href="#schrift-ver%C3%A4ndern">Schrift verändern</a>
+<li><a href="#schrift-verändern">Schrift verändern</a>
 	<ul>
 		<li><a href="#kursiv">Kursiv</a></li>
 		<li><a href="#fett">Fett</a></li>
@@ -22,9 +22,9 @@ title: Markdown Syntax
 		<li><a href="#geordnete-liste">Geordnete Liste</a></li>
 	</ul>
 </li>
-<li><a href="#%C3%9Cberschriften">Überschriften</a>
+<li><a href="#überschriften">Überschriften</a>
 	<ul>
-		<li><a href="#html-%C3%9Cberschriften">HTML-Überschriften</a></li>
+		<li><a href="#html-überschriften">HTML-Überschriften</a></li>
 		<li><a href="#alternativen">Alternativen</a></li>
 	</ul>
 </li>
