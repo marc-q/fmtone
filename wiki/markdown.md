@@ -103,12 +103,12 @@ Ungeordnete Liste
 
 ```markdown
 * Ein Punkt in einer ungeordneten Liste.
-		* Ein unterpunkt von dem Punkt über diesem.
+		* Ein Unterpunkt von dem Punkt über diesem.
 * Ein weiterer Punkt.
 ```
 
 * Ein Punkt in einer ungeordneten Liste.
-    * Ein unterpunkt von dem Punkt über diesem.
+    * Ein Unterpunkt von dem Punkt über diesem.
 * Ein weiterer Punkt.
 
 Geordnete Liste
