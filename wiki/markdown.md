@@ -77,10 +77,10 @@ Fett kursiv
 -----------
 
 ```markdown
-***Fett kursiv*** oder ___Fett kursiv___
+_**Fett kursiv**_
 ```
 
-***Fett kursiv*** oder ___Fett kursiv___
+_**Fett kursiv**_
 
 ---
 
