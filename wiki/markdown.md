@@ -1,6 +1,6 @@
 ---
 layout: default
-locale: de
+lang: de
 title: Markdown Syntax
 ---
 
