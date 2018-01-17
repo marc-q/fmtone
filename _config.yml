@@ -12,6 +12,7 @@ defaults:
 gems:
   - jekyll-feed
   - jekyll-sitemap
+  - jemoji
 exclude:
   - CNAME
   - README.md
