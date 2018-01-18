@@ -29,11 +29,11 @@ Figur Ursprungsfeld Zielfeld
 
 | Notation | Beschreibung |
 | -------- | ------------ |
-| `Ke1e2` | König ein Feld vorziehen. |
+| `Ke1e2` | Den König ein Feld vorziehen. |
 | `Dd8d4` | Die Dame von `d8` auf `d4` ziehen. |
-| `Ta1a4` | Den rechten Turm auf `a4` ziehen. |
-| `Sa2c3` | Das Pferd von `a2` auf `c3` ziehen. |
-| `La2c4` | Läufer diagonal von `a2` auf `c6` ziehen. |
+| `Ta1a4` | Den Turm von `a1` auf `a4` ziehen. |
+| `Sa2c3` | Den Springer von `a2` auf `c3` ziehen. |
+| `La2c4` | Den Läufer diagonal von `a2` auf `c6` ziehen. |
 | `g2g4` | Den Bauer von `g2` zwei Felder vorziehen. |
 
 ---
