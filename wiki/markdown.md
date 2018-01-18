@@ -1,7 +1,7 @@
 ---
-layout: default
-lang: de
 title: Markdown Syntax
+layout: page
+lang: de
 ---
 
 <details>
@@ -204,5 +204,3 @@ Tabellen
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
-
----
