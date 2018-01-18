@@ -3,7 +3,7 @@
   <ShortName>FMTone</ShortName>
   <Description>Search FMTone on GitHub</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">http://fmt.one/assets/img/logo.svg</Image>
+  <Image width="16" height="12" type="image/x-icon">http://fmt.one/assets/img/logo.svg</Image>
   <Url type="application/opensearchdescription+xml" rel="self" template="http://fmt.one/opensearch.xml"/>
   <Url type="text/html" method="get" template="https://github.com/marc-q/fmtone/search?q={searchTerms}+extension:md+path:/wiki&amp;type=Code&amp;ref=opensearch"/>
   <moz:SearchForm>https://github.com/marc-q/fmtone/search</moz:SearchForm>
