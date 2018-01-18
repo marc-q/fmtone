@@ -1,6 +1,6 @@
 ---
 title: Schachnotation
-layout: default
+layout: page
 lang: de
 ---
 # Schachnotation
@@ -35,5 +35,3 @@ Figur Ursprungsfeld Zielfeld
 | `Sa2c3` | Den Springer von `a2` auf `c3` ziehen. |
 | `La2c4` | Den Läufer diagonal von `a2` auf `c6` ziehen. |
 | `g2g4` | Den Bauer von `g2` zwei Felder vorziehen. |
-
----
