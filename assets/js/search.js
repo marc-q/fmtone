@@ -3,6 +3,14 @@ function fmt_show_results (data)
 	var items = data['items'];
 	var section = document.querySelector('section');
 	
+	if (data.total_count === 0)
+	{
+		var err = document.createElement ('h3');
+		err.textContent = "We couldn't find any page.";
+		section.appendChild (err);
+		return;
+	}
+	
 	for (var i = 0; i < items.length; i++)
 	{
 		var res = document.createElement ('article');
