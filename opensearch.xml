@@ -5,6 +5,6 @@
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="12" type="image/x-icon">http://fmt.one/assets/img/favicon.ico</Image>
   <Url type="application/opensearchdescription+xml" rel="self" template="http://fmt.one/opensearch.xml"/>
-  <Url type="text/html" method="get" template="http://fmt.one/search.html?q={searchTerms}"/>
-  <moz:SearchForm>http://fmt.one/search.html</moz:SearchForm>
+  <Url type="text/html" method="get" template="http://fmt.one/wiki/index.html?q={searchTerms}"/>
+  <moz:SearchForm>http://fmt.one/wiki/index.html</moz:SearchForm>
 </OpenSearchDescription>
