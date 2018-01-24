@@ -1,0 +1,23 @@
+---
+layout: page
+---
+
+<form class="center" action="/search.html">
+		<input type="search" name="q" value="" placeholder="Search..." required="yes"/>
+		<button type="submit">Search</button>
+</form>
+  
+<section></section>
+
+<script src="search.js" type="text/javascript"></script>
+<script type="text/javascript">
+  if (document.URL.includes ('?q='))
+  {
+    var args = document.URL.split ('?q=');
+
+    if (args.length === 2)
+    {
+      fmt_search (args[1]);
+    }
+  }
+</script>
