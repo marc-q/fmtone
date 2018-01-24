@@ -36,7 +36,7 @@ function fmt_show_results (data)
 
 function fmt_search (q)
 {
-	document.querySelector("input[name='q']").value = q;
+	document.querySelector("input[name='q']").value = decodeURI (q);
 	
 	var url = "https://api.github.com/search/code?q=" + q + "+in:file+path:/wiki/+repo:marc-q/fmtone";
 	var req = new XMLHttpRequest ();
