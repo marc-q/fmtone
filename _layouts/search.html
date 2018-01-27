@@ -4,7 +4,7 @@ layout: page
 
 {{ content }}
 
-<form class="center" action="/wiki/">
+<form class="center" action="/search/">
 		<input type="search" name="q" value="" placeholder="Search..." required="yes"/>
 		<button type="submit">Search</button>
 </form>
@@ -19,7 +19,7 @@ layout: page
 
     if (args.length === 2)
     {
-      fmt_search (args[1]);
+      sjs_search (args[1]);
     }
   }
 </script>
