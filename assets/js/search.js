@@ -82,7 +82,7 @@ function sjs_search (q)
 	document.querySelector("input[name='q']").value = decodeURI (q);
 	
 	var req = new XMLHttpRequest ();
-	req.open ('GET', "http://fmt.one/search.json");
+	req.open ('GET', "/search.json");
 	req.responseType = 'json';
 	req.send ();
 	
