@@ -6,17 +6,17 @@ layout: null
     {
       "title" : "{{ post.title | escape }}",
       "url" : "{{ post.url }}",
-      "body": "{{ post.content | jsonify }}"
+      "body": {{ post.content | jsonify }}
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
   ,
   {% for page in site.pages %}
-    {% if page.title != nil %}
-      {
+    {
+      {% if page.title != nil %}
         "title" : "{{ page.title | escape }}",
         "url" : "{{ page.url }}",
-        "body": "{{ page.content | jsonify }}"
-      } {% unless forloop.last %},{% endunless %}
-    {% endif %}
+        "body": {{ page.content | jsonify }}
+      {% endif %}
+    } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
