@@ -11,12 +11,12 @@ layout: null
   {% endfor %}
   ,
   {% for page in site.pages %}
-    {
-      {% if page.title != nil %}
+    {% if page.title != nil %}
+      {
         "title" : "{{ page.title | escape }}",
         "url" : "{{ page.url }}",
         "body": "{{ page.content | jsonify }}"
-      {% endif %}
-    } {% unless forloop.last %},{% endunless %}
+      } {% unless forloop.last %},{% endunless %}
+    {% endif %}
   {% endfor %}
 ]
