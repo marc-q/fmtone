@@ -54,6 +54,8 @@ function sjs_rank (index, q)
 	var body = "";
 	var score = 0;
 	
+	var myre = new RegExp ("(" + q + ")", "g");
+	
 	for (var i = 0; i < index.length; i++)
 	{
 		if (index[i].body === undefined)
@@ -64,7 +66,6 @@ function sjs_rank (index, q)
 		if (!body.includes (q))
 			continue;
 		
-		var myre = new RegExp ("(" + q + ")", "g");
 		score = body.match (myre);
 		
 		results.push (new Result (index[i].title,
